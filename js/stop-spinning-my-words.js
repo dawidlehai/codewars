@@ -9,5 +9,4 @@ function spinWords(string) {
   return reversedWords.join(" ");
 }
 
-console.log(spinWords("Stop Spinning My Words"));
 module.exports = spinWords;
